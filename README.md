@@ -2,6 +2,8 @@
 My implentation Daatabase on C (for phones) using Linked list to store data. It storage all info in db.txt. It has a huge functional:
 
 <img width="303" alt="image" src="https://github.com/user-attachments/assets/400bd914-f53c-44dc-8600-08c5c4f91386">
+
+
 1 - show all lines
 2 - edit line
 3 - add line
