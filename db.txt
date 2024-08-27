@@ -1,0 +1,5 @@
+
+Apple 0 Iphone_X 1 1 2716 64 174 5.8 17990
+Apple 0 Iphone_12 0 nanoSIM,eSIM 2815 128 164 6.1 63390
+Google 0 Nothing_Phone(1) 0 DualNanoSIM 4500 128 193 6.6 31950
+Honor 0 30_Pro+ 0 DualNanoSIM 4000 256 190 6.7 44045
