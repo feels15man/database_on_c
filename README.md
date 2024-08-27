@@ -5,10 +5,17 @@ My implentation Daatabase on C (for phones) using Linked list to store data. It 
 
 
 1 - show all lines
+
 2 - edit line
+
 3 - add line
+
 4 - find a certain line
+
 5 - remove one line
+
 6 - remove all lines
+
 7 - export datase to another file (then could be read as same db)
+
 8 - import databe (read file and add to its memory)
